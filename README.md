@@ -54,7 +54,6 @@ Here is a visual representation of the final dashboard:
 
 ![Sales Dashboard](https://github.com/Esraa-MOhamed7/Sales-Data-Analysis-Excel/blob/main/dashboard.png)
 
-*Disclaimer: All data and insights are based on a fictional dataset for demonstration purposes.*
 
 
 
