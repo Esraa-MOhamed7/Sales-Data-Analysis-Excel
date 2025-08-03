@@ -52,7 +52,7 @@ Based on the dashboard’s visualization, the following insights and recommendat
 
 Here is a visual representation of the final dashboard:
 
-![Sales Dashboard](dashboard_snapshot.png)
+![Sales Dashboard](https://github.com/Esraa-MOhamed7/Sales-Data-Analysis-Excel/blob/main/dashboard.png)
 
 *Disclaimer: All data and insights are based on a fictional dataset for demonstration purposes.*
 
